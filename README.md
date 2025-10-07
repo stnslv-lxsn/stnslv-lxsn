@@ -104,7 +104,7 @@
 
 - ✈️ Telegram: [@stnas1l](https://t.me/stnas1l)
 - 🔵 VK: [@nandeikuyo](https://vk.com/nandeikuyo)
-- 💼 LinkedIn: [stanislav-lisin-16696937a](https://www.linkedin.com/in/stanislav-lisin-16696937a/)
+- 💼 LinkedIn: [stanislav](https://www.linkedin.com/in/stanislav-lisin-16696937a/)
 
 ---
 
