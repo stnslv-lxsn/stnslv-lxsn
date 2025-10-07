@@ -3,6 +3,8 @@
   <h1>👋 Привет! Я <strong>Станислав</strong></h1>
   
   <p><em>Fullstack / Software Developer · C# · .NET · Java · C++</em></p>
+
+  [Скачать CV (PDF)](./CV.pdf)
   
   <p>
     <a href="https://github.com/stnslv-lxsn?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/stnslv-lxsn?style=for-the-badge&logo=github&label=Follow"></a>
