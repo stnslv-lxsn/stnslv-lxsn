@@ -25,7 +25,7 @@
 ### ⚡️ Коротко
 - 🚀 Делаю: приложения на C#/.NET (WinForms, MS SQL), Android (Java), алгоритмы/задачи
 - 🎯 Фокус: прикладные решения под Windows, CRUD/учётные системы, оптимизация
-- 🧠 Сейчас изучаю: продвинутый .NET, архитектуры, улучшение code style через LeetCode
+- 🧠 Сейчас изучаю: продвинутый Python, архитектуры, улучшение code style через LeetCode
 - 🤝 Открыт к сотрудничеству/проектам
 
 ---
@@ -43,7 +43,7 @@
 <details>
 <summary><strong>Расширенный стек</strong></summary>
 
-- Backend: C#, .NET, Windows Forms, ADO.NET
+- Backend: C#, .NET, Windows Forms, ADO.NET, Python
 - DB: MS SQL (T-SQL), PostgreSQL, базы для CRUD-приложений
 - Mobile: Java, Android SDK
 - Алгоритмы: C++/C#, задачи разной сложности (LeetCode)
@@ -79,6 +79,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=stnslv-lxsn&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stnslv-lxsn&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=stnslv-lxsn&theme=tokyonight&hide_border=true" height="150"/>
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=stnslv-lxsn&theme=onedark&no-frame=true&no-bg=true&column=6" alt="trophy"/>
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stnslv-lxsn&theme=tokyonight" alt="summary-cards"/>
+  
+  <br/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quotes"/>
+  
+  <br/>
+  
+  <a href="https://leetcode.com/u/donotcare16/"><img src="https://leetcard.jacoblin.cool/donotcare16?theme=dark&ext=heatmap" height="200" alt="LeetCode stats"/></a>
   
 </div>
 
