@@ -37,7 +37,7 @@
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,androidstudio,cpp,python,cmake" height="32"/>
-  <img src="https://skillicons.dev/icons?i=git,github,windows,arch" height="32"/>
+  <img src="https://skillicons.dev/icons?i=git,github,windows,arch,flask,gcp" height="32"/>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender,figma" height="32"/>
   
 </div>
